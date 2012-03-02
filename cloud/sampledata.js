@@ -14,10 +14,10 @@ exports.sampleResponse =
         "08:00 - 20:00"
       ],
       "location":{
-        "lat":52.26,
-        "lon":-7.11
+        "lat":25.3603,
+        "lon":51.5267
       },
-      "name":"Johns Shop",
+      "name":"Katara",
       "phone":[
         "051123456",
         "0861234567"
